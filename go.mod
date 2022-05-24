@@ -33,12 +33,12 @@ require (
 	github.com/ipfs/go-unixfs v0.2.4
 	github.com/ipfs/interface-go-ipfs-core v0.4.0
 	github.com/klauspost/compress v1.13.0
-	github.com/libp2p/go-libp2p-core v0.8.5
+	github.com/libp2p/go-libp2p-core v0.15.1
 	github.com/libp2p/go-msgio v0.0.6
 	github.com/libp2p/go-sockaddr v0.1.0 // indirect
 	github.com/libp2p/go-yamux v1.4.1
 	github.com/mholt/archiver v3.1.1+incompatible
-	github.com/multiformats/go-multiaddr v0.3.2
+	github.com/multiformats/go-multiaddr v0.4.1
 	github.com/multiformats/go-multihash v0.0.15
 	github.com/niemeyer/pretty v0.0.0-20200227124842-a10e7caefd8e // indirect
 	github.com/nwaples/rardecode v1.1.0 // indirect
